@@ -1,3 +1,5 @@
+[![testling badge](https://ci.testling.com/derekr/input-has-changed.png)](https://ci.testling.com/derekr/input-has-changed)
+
 # input-has-changed
 #### Event emitter for common keyup input interaction changes.
 
